@@ -1458,3 +1458,7 @@ footer {
 .legal-content li {
   margin-bottom: 0.3rem;
 }
+/* Careers page: add space before Apply button */
+.legal-content .btn {
+  margin-top: 1.5rem;
+}
