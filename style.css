@@ -1458,7 +1458,7 @@ footer {
 .legal-content li {
   margin-bottom: 0.3rem;
 }
-/* Careers page: add space before Apply button */
+/* Careers / Legal Content – Tighter Spacing section */
 .legal-content .btn {
-  margin-top: 1.5rem;
+  margin-top: 2rem; 
 }
